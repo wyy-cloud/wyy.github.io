@@ -8,6 +8,7 @@ CCTV-3高清,http://223.110.241.131:6610/jsyd/live1/G_CCTV-3-MD/G_CCTV-3-MD/
 CCTV-4高清,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000320/index.m3u8
 CCTV-4高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 CCTV-4高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV-5高清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 CCTV-5高清,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL30000005/index.m3u8
 CCTV-5高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-6高清,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
